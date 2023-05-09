@@ -1,0 +1,3 @@
+[submodule "Instagram/Instagram-Comments-Scraper"]
+	path = Instagram/Instagram-Comments-Scraper
+	url = git@github.com:AgiMaulana/Instagram-Comments-Scraper.git
