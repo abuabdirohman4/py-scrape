@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "youtube"
+version = "0.1.0"
+description = ""
+authors = ["abuabdirohman4 <abuabdirohman4@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+youtube-comment-downloader = "^0.1.68"
+pandas = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
